@@ -1501,6 +1501,7 @@
 
 .slideInRight {
   animation-name: slideInRight;
+  animation-duration: 200ms;
 }
 
 @keyframes slideInUp {
